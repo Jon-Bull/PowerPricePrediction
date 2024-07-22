@@ -19,18 +19,18 @@ This project aims to forecast power prices in Norway using machine learning tech
 - Virtual Environment (`venv`)
 
 ### Installation
-1. Clone the repository:
-    ```sh
-    git clone git@github.com:Jon-Bull/PowerPricePrediction.git
-    cd PowerPricePrediction
-    ```
-
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment:
     ```sh
     python3 -m venv PPP_env
     source PPP_env/bin/activate
     ```
-
+    
+2. Clone the repository:
+    ```sh
+    git clone git@github.com:Jon-Bull/PowerPricePrediction.git
+    cd PowerPricePrediction
+    ```
+    
 3. Install the required packages:
     ```sh
     pip install -r requirements.txt
