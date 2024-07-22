@@ -21,7 +21,7 @@ This project aims to forecast power prices in Norway using machine learning tech
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:Jon-Bull/PowerPricePrediction.git
     cd PowerPricePrediction
     ```
 
