@@ -1,4 +1,4 @@
-# Power Price Forecasting Project
+# Power Price Forecasting Project (Development Paused)
 
 ## Introduction
 This project aims to forecast power prices in Norway using machine learning techniques. The project demonstrates a good workflow for a data scientist, including data collection, cleaning, processing, model training, evaluation, and visualization.
